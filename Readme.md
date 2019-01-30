@@ -1,4 +1,4 @@
-Predictive Analysis of Fabric Softener Brand 
+<b> Predictive Analysis of Fabric Softener Brand </b>
 
 Datasource: Dataset Source: Research Paper of Fader, Peter S. and Bruce G.S. Hardie (1996), "Modeling Consumer Choice Among SKUs," Journal of Marketing Research, 33 (November), 442-452.
 (Dataset: 9781 Records, 21 Predictors)
@@ -8,12 +8,12 @@ variables, and the 4417 purchases from 1991 are used for model calibration. The 
 
 Tools used: R studio, Excel 2013
 
-Skills: R, Statistics – Multinomial Logit & MA forecasting, Tableau.
+Skills: R, Statistics â€“ Multinomial Logit & MA forecasting, Tableau.
 
 Tasks Achieved:
-• Cleaning and preparing the data to run the model. Some dummy variables assigned.
-•	Build multinomial logistic model to perform brand analysis and to forecast customer preferences based on SKU
-•	Analyze customer loyalty and Sales dependency based on SKU attributes and price variables.
-•	Forecast Sales using moving average, interpret customer behavior and sales trend based on brands and SKU.
+â€¢ Cleaning and preparing the data to run the model. Some dummy variables assigned.
+â€¢	Build multinomial logistic model to perform brand analysis and to forecast customer preferences based on SKU
+â€¢	Analyze customer loyalty and Sales dependency based on SKU attributes and price variables.
+â€¢	Forecast Sales using moving average, interpret customer behavior and sales trend based on brands and SKU.
 
 
